@@ -1,0 +1,23 @@
+{
+  "name": "my_passion_j",
+  "version": "1.0.0",
+  "description": "A small space that captures my past, present, and dreams for the future. Join me as I share my journey of growth, learning, and passion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhlee001010/passionpoint.git"
+  },
+  "author": "jhlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhlee001010/passionpoint/issues"
+  },
+  "homepage": "https://github.com/jhlee001010/passionpoint#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
